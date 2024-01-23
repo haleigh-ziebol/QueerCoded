@@ -1,3 +1,5 @@
-# QueerCoded
+# _Queer_Coded_
 
-<img src="https://github.com/halziebol11/small-react-gallery/blob/main/public/images/Github%20README.svg" align="center"/>
+## A Monthly-ish Meet-Up for LBGTQ+ Folks In Tech
+
+<img src="https://github.com/haleigh-ziebol/QueerCoded/blob/main/public/February.jpg" align="center"/>
